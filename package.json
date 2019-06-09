@@ -1,0 +1,10 @@
+{
+  "name": "functionals",
+  "version": "v1.0.0-alpha.0",
+  "description": "Functional helpers",
+  "main": "index.js",
+  "repository": "https://github.com/BytecodeOpenSource/Functionals.git",
+  "author": "Bytecode Digital Agency <info@bytecode.support>",
+  "license": "MIT",
+  "private": false
+}
